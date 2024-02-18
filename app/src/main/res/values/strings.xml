@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentNotes</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_note_list">NoteListActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_note_detail">NoteDetailActivity</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383550568131",
+    "project_id": "student-notes-e5086",
+    "storage_bucket": "student-notes-e5086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383550568131:android:3089f85f12e229a01d5476",
+        "android_client_info": {
+          "package_name": "com.example.studentnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElqigz9tiJWSeekPUsdLCnJMkxDp8WQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
